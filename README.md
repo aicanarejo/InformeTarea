@@ -10,7 +10,9 @@ Nombre del profesor: Darwin Omar Alulema Flores
 
 1. OBJETIVOS
 Objetivos Generales.-Obterciones y transformacion de números, objetos de medición ayudaran a transformar varios valores en notacion cientifica lo que permite que todos y cada uno de los valores obtengan un valor significativo.
+
 Objetivos Especificos.-Las visualizaciones y posteriormente cada unos de sus símbolos permitira reconocer(I) este símbolo significa amperaje (V)Voltaje estas abreviacioones ayudan a un buen medidor a reconocer con facilidad el problema propuesto.
+
 Objetivos Especificos.-Notacion cientifica permitira que varios de los números pueden ser transformados obteniendo diferentes valore de (R) resistencias ayudando también a verificar sus porcentajes de error que presenta cada una de las resistencias.
 
 
